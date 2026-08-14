@@ -285,5 +285,7 @@ B.Tech — Artificial Intelligence and Data Science
 **GitHub:** Sanjay-4510
 
 ---
+## Contributor
+ Documentation updated by selvasanjiv19.
 
 **Predict • Explain • Understand**
